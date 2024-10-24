@@ -2,7 +2,7 @@
 
 A complete bot template for Discord dev
 
-![](https://img.shields.io/github/downloads/github/Template-TypeScript/total?logo=github)
+![](https://img.shields.io/github/downloads/github/frsnow/Template-TypeScript/total?logo=github)
 
 ## Copyright
 
